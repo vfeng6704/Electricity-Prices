@@ -1,4 +1,3 @@
-# Electricity-Prices
 Work in Progress
 
 
@@ -25,13 +24,3 @@ Accurate price forecasting is key to optimizing energy production, managing grid
   - **Feature Engineering**: Creating new features relevant to electricity price prediction.
   - **Model Selection**: Evaluating different machine learning models, including XGBoost and time-series models like ARIMA.
   - **Performance Metrics**: Using metrics like Mean Squared Error (MSE) and R-squared to evaluate model accuracy.
-
-## Next Steps
-
-- **Issues and Limitations**:
-  - Addressing any inconsistencies or gaps in the data.
-  - Balancing the complexity of the model to avoid overfitting while maintaining high predictive accuracy.
-
-- **Implementation / Production**:
-  - Strategies for deploying the model into a production environment.
-  - Setting up processes for ongoing model evaluation and updating the model with new data.

@@ -1,6 +1,3 @@
-Work in Progress
-
-
 ## Executive Summary
 
 Forecasting electricity prices is crucial for efficient energy market operations. This project applies machine learning models to historical data on energy production and weather conditions to predict electricity prices.
